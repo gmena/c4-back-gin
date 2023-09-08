@@ -1,0 +1,2 @@
+x 2023-09-08 Start a game with GET /connectfour/new
+x 2023-09-08 Place a piece with POST /connectfour/123 player=1&col=0
