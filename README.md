@@ -5,7 +5,7 @@ Two players can start a game and play it using REST calls. No authentication is 
 Start the server.
 
 ```bash
-$ mvn spring-boot:run
+$ go run .
 ```
 
 Make HTTP requests to start a game.
